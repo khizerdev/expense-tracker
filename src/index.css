@@ -1,0 +1,10 @@
+* { margin: 0}
+
+#root , body , html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(rgba(0,0,0,0.5) , rgba(9,0,0,0.5)) , url('http://finance.bold-themes.com/main-demo/wp-content/uploads/sites/4/2016/09/hero_10.jpg');
+  background-size: cover;
+}
